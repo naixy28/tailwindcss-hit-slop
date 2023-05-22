@@ -1,6 +1,6 @@
 {
   "name": "tailwindcss-hit-slop",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A Tailwind CSS plugin for add hit slop to elements.",
   "repository": "https://github.com/naixy28/tailwindcss-hit-slop",
   "main": "src/index.js",
